@@ -10,3 +10,4 @@ The components used for this project are:
 
 One may add a proximity sensor to sense hand movements as an improvement to thsi project
 All the necessary code for this project is uploaded in the repository
+
